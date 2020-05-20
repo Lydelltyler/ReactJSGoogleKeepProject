@@ -1,2 +1,0 @@
-# ReactJSGoogleKeepProject
-Created with CodeSandbox
